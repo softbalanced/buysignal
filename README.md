@@ -1,6 +1,8 @@
-# CryptoTracker
+# BuySignal
 
-> Crypto tracker app
+Best Crypto Signal Application – Get Free Signals Today
+
+Trading the cryptocurrency market can be tricky – especially if you are a beginner. However, by using crypto signal application, no need for extensive research and analysis, allowing to streamline trading through daily and weekly trade period.
 
 ## Screenshots
 
